@@ -7,6 +7,7 @@
 2. [**Gendiff**](https://github.com/korpeev/frontend-project-lvl2)
 3. [**MERN-Todolist**](https://github.com/korpeev/mern-todo-app)
 4. [**React-Rolls**](https://github.com/korpeev/react-rolls)
+5. [**Avisales Test**](https://github.com/korpeev/avaisales-test)
 
 ## My Skills
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
